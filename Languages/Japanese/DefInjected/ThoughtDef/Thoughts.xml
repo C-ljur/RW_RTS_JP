@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RTS_CorpseThoughtGeneral.stages.0.label>死体が降ってきた</RTS_CorpseThoughtGeneral.stages.0.label>
+  <RTS_CorpseThoughtGeneral.stages.0.description>死体用ポッドで死体を落とされて非常に不愉快だ。</RTS_CorpseThoughtGeneral.stages.0.description>
+
+  <RTS_InThisTogether.stages.0.label>こんなことは一緒に乗り切ろう</RTS_InThisTogether.stages.0.label>
+  <RTS_InThisTogether.stages.0.description>力を合わせれば耐えられる。</RTS_InThisTogether.stages.0.description>
+
+  <RTS_CorpseThoughtSameFaction.stages.0.label>同盟相手の死体が降ってきた</RTS_CorpseThoughtSameFaction.stages.0.label>
+  <RTS_CorpseThoughtSameFaction.stages.0.description>友の亡骸がひどい辱めを受けた。</RTS_CorpseThoughtSameFaction.stages.0.description>
+
+  <RTS_CorpseThoughtHappyCannibal.stages.0.label>食料が降ってきた</RTS_CorpseThoughtHappyCannibal.stages.0.label>
+  <RTS_CorpseThoughtHappyCannibal.stages.0.description>天から恵みの食を賜った。</RTS_CorpseThoughtHappyCannibal.stages.0.description>
+
+  <RTS_CorpseThoughtSadCannibal.stages.0.label>食べられない死体が降ってきた</RTS_CorpseThoughtSadCannibal.stages.0.label>
+  <RTS_CorpseThoughtSadCannibal.stages.0.description>何と勿体ない。折角の美味い飯なのに。</RTS_CorpseThoughtSadCannibal.stages.0.description>
+
+  <RTS_CorpseThoughtBloodlust.stages.0.label>血の雨が空から降ってきた</RTS_CorpseThoughtBloodlust.stages.0.label>
+  <RTS_CorpseThoughtBloodlust.stages.0.description>血だまりがそこかしこにできて楽しい!</RTS_CorpseThoughtBloodlust.stages.0.description>
+
+  <RTS_CorpseThoughtAnnoyed.stages.0.label>落ちてきた死体の処理をしなくては</RTS_CorpseThoughtAnnoyed.stages.0.label>
+  <RTS_CorpseThoughtAnnoyed.stages.0.description>この惨状を片付けるのか...</RTS_CorpseThoughtAnnoyed.stages.0.description>
+
+  <RTS_CleanedOkayCorpse.stages.0.label>死体を片付けた</RTS_CleanedOkayCorpse.stages.0.label>
+  <RTS_CleanedOkayCorpse.stages.0.description>死体を片付けなければならなかった。嫌になるよ。</RTS_CleanedOkayCorpse.stages.0.description>
+
+  <RTS_CleanedGrossCorpse.stages.0.label>死体を片付けた</RTS_CleanedGrossCorpse.stages.0.label>
+  <RTS_CleanedGrossCorpse.stages.0.description>ひどい死体を片付けなければならなかった。吐き気がする。</RTS_CleanedGrossCorpse.stages.0.description>
+
+  <RTS_CleanedPutridCorpse.stages.0.label>死体を片付けた</RTS_CleanedPutridCorpse.stages.0.label>
+  <RTS_CleanedPutridCorpse.stages.0.description>腐敗した死体を片付けなければならなかった。もう二度と自分が清潔だなんて感じられない。</RTS_CleanedPutridCorpse.stages.0.description>
+
+  <RTS_ObservedLayingGibletCorpse.stages.0.label>バラバラ死体を見た</RTS_ObservedLayingGibletCorpse.stages.0.label>
+  <RTS_ObservedLayingGibletCorpse.stages.0.description>ずたずたにされた遺体が地面に置かれているのを目にした。人間だということはかろうじて分かった。</RTS_ObservedLayingGibletCorpse.stages.0.description>
+
+  <RTS_ObservedLayingVaporizedCorpse.stages.0.label>死体が蒸発するのを見た</RTS_ObservedLayingVaporizedCorpse.stages.0.label>
+  <RTS_ObservedLayingVaporizedCorpse.stages.0.description>血飛沫だけが残ったのを目にした。こんなの滅茶苦茶だ!</RTS_ObservedLayingVaporizedCorpse.stages.0.description>
+
+
+</LanguageData>

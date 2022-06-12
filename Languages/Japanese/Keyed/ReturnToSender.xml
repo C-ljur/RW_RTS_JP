@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RTS_MessageTransporterTypesInvalid>死体用ポッドは他の種類の輸送ポッドと一緒にできません。</RTS_MessageTransporterTypesInvalid>
+  <RTS_GiveBodiesViaCorpsePods>侮辱の証として{0}に死体を送り付ける ({1})</RTS_GiveBodiesViaCorpsePods>
+  <RTS_SendBodiesToLocation>ここへ死体を送る</RTS_SendBodiesToLocation>
+
+  <RTS_MessageTransportPodsArrived>死体用ポッドが到着しました。</RTS_MessageTransportPodsArrived>
+  <RTS_MessageTransportPodsArrivedAndLost>死体用ポッドが到着しましたが、(生存している) 入植者がいないため、内容物が失われました。</RTS_MessageTransportPodsArrivedAndLost>
+  <RTS_MessageTransportPodsArrivedAndAddedToCaravan>死体用ポッドが到着しました。内容物は{0}に加えられました。</RTS_MessageTransportPodsArrivedAndAddedToCaravan>
+
+  <RTS_GoodwillChangedReason_ReceivedGift>死体を受け取った</RTS_GoodwillChangedReason_ReceivedGift>
+  <RTS_MessageGiftGivenButNotAppreciated>{0}は死体を受け取ったが気に留めていないようだ。</RTS_MessageGiftGivenButNotAppreciated>
+
+  <RTS_Location>場所</RTS_Location>
+  <RTS_Settlement>拠点</RTS_Settlement>
+  <RTS_Site>地点</RTS_Site>
+  <RTS_Outpost>前哨基地</RTS_Outpost>
+
+  <RTS_Story_Empty_0>入植者は、ポッドを送った場所に到着しましたが、結果として送りつけた死体の上や周りを歩く手間が増えただけでした。この死体の影響を受ける人間はここにはいなかったようで、誰もわざわざ片付けようとはしていません。
+	
+次回は、もっと戦略が実を結ぶような相手を選ぶことをお勧めします...</RTS_Story_Empty_0>
+
+  <RTS_Story_Annihilation_Active_0>この{0}は、周りに打ち込まれた死体の影響で、すっかり惨状と化していた。
+
+圧倒されるような死臭を放ちながら、この{0}は滅び、長い時の流れの中に消えていくでしょう。
+
+この地にはもう何も残されていない...</RTS_Story_Annihilation_Active_0>
+
+  <RTS_Story_Annihilation_Active_1>激しいポッド攻撃を受けていた{0}の残骸に入植者たちが入る。彼らは耳をそばだてて周囲を見つめたが、そこには静寂だけが残されていた。
+
+かつてここにあった{0}は影も形もありません。笑いも涙もなく、以前送った腐乱死体の上にただ血濡れの{1}が重なっているだけです。腐敗した死体は、この地域をうろついていた獣によって齧り毟られています。建造物は、猛攻撃で心が折れた者たちによって打ち壊され、半壊の状態です。
+
+かつてこの地にあった{0}の栄華はもうありません。あなた方入植者の影響で滅びてしまったのです。</RTS_Story_Annihilation_Active_1>
+
+  <RTS_Story_Annihilation_Active_2>入植者は閑散とした{0}に到着しました。あまりにも静かです。彼らは周囲を見回し、風が彼らの耳を撫でるのを感じています。周りに敵がいないか警戒していますが、誰も見当たりません。今は安全な状態です。
+
+目の前に広がる{0}は、空から飛来した多くの死体で覆われている。死者の体は大地に降り積もり、まるで、血が水のように、この荒涼とした土地にさえ生える植物とその大地を育むかのように赤く染めている。
+    
+建物はかつてここにあったものの面影を残すのみであり、部屋にはベッドやベンチ、まだ手をつけられていない、そしてこれからも手をつけられることのない資源で埋め尽くされています。立ち入った{0}は、入植者の働きによって消えてしまっていたのです。</RTS_Story_Annihilation_Active_2>
+
+  <RTS_Story_Annihilation_Active_3>到着した入植者たちは、広々とした土地を見つめ、周囲に耳を傾け、自分たちに危害を加えようとする敵がいないか警戒しているが、誰もいない。目の前の土地には、音がない。血に染まった道を踏みしめる彼らの耳には、ただ撫で寄ってくる風だけが感じられる。 
+
+建物は無防備な状態で、衛兵も存在しない。虫に食われた死体の臭いだけが、この{0}が侵入者に対して示す唯一の抵抗手段と化している。村の周りには過去の断片が転がっている。手つかずの資源、壊れた壁、枯れてしまった植物...
+
+この土地の人々は、入植者の働きによって全滅しました。</RTS_Story_Annihilation_Active_3>
+
+  <RTS_Story_NoDamage_Active_0>入植者たちは、最近死体を浴びせてやった{0}に到着しましたが、まるで攻撃されたようには見えません。ケロッとしているように...見て取れます。{0}にはまだ生きている者がおり、多くの住人が冷静に周辺の死体を片付けたり、利用したりしています。あなた方が仕掛けた先日の攻撃にも、住人たちは影響を受けていません。今後、彼らがどれだけの期間、心を強く保てていられるかは、時間が経ってみなければ分かりません。</RTS_Story_NoDamage_Active_0>
+  <RTS_Story_NoDamage_Inactive_0>入植者たちは、軽く死体による攻撃をした{0}へと入る。不意打ちをしたにもかかわらず、集落を破壊するあなたの努力は報われませんでした。住人たちはまったくの無傷で、集落に入ってみると、社会がうまく機能しており、全員が自分の役割を果たし、ゆっくりと、しかしあなたたちから受けた苦難に負けずに成長しているのが分かります。</RTS_Story_NoDamage_Inactive_0>
+  <RTS_Story_NoDamage_Inactive_1>この{0}は最近、周辺に死体が打ち込まれるようになった。しかし住人の日常は何も変わっていないようです。</RTS_Story_NoDamage_Inactive_1>
+  <RTS_Story_NoDamage_Inactive_2>>入植者たちは、最近、死体による攻撃をした{0}に入りました。{0}は、あなたたちがしてきたことをすべて忘れてしまったかのような、何事もない普通の様子を見せています。住人たちは走り回り、基地を整備し、警備を固め、味方の傍で日々の生活を送っています。この{0}は今回の攻撃では無傷ですが、今後の攻撃や被害に対してどのように対応するかは時間が経てば分かるでしょう。</RTS_Story_NoDamage_Inactive_2>
+
+
+  <RTS_Story_MildDamage_Active_0>この{0}は最近、周辺に死体が打ち込まれるようになった。住民の間でも混乱が起きている。食事をぶちまける住民もいれば、吐気を抑えてうんざりとした顔で腐乱死体を運んでいる者もいる。</RTS_Story_MildDamage_Active_0>
+  <RTS_Story_MildDamage_Inactive_0>[PLACEHOLDER] 軽微な被害、清掃は完了</RTS_Story_MildDamage_Inactive_0>
+  <RTS_Story_MildDamage_MinorRecovery_0>この{0}は、周囲に打ち込まれた死体の影響を受けています。住民は大体元気そうに見えますが 一部の住民は心を消耗し、まだ何が起こったのかを処理できずにいるように見えます。普通の田舎の香りを死体の臭いが掻き消しています。</RTS_Story_MildDamage_MinorRecovery_0>
+
+  <RTS_Story_MediumDamage_Active_0>[PLACEHOLDER] 中程度の被害、清掃は継続中</RTS_Story_MediumDamage_Active_0>
+  <RTS_Story_MediumDamage_Inactive_0>この{0}は最近、最近、周辺に打ち込まれた死体の影響を受けています。住民のほとんどが不安と恐怖を植え付けられました。中には、次の死体として屋根を突き破って仲間に発見される末路なんてゴメンだと、部屋の持ち主が夜のうちに姿を消したために、そのままになっている寝室もあります。</RTS_Story_MediumDamage_Inactive_0>
+  <RTS_Story_MediumDamage_MinorRecovery_0>[PLACEHOLDER] 中程度の被害、軽度の復興</RTS_Story_MediumDamage_MinorRecovery_0>
+  <RTS_Story_MediumDamage_MajorRecovery_0>[PLACEHOLDER] 中程度の被害、大まか/完全な復興</RTS_Story_MediumDamage_MajorRecovery_0>
+
+  <RTS_Story_MajorDamage_Active_0>この{0}は最近、周辺に打ち込まれた死体の影響を受けています。住人の集団ヒステリーも発生しています。住人の多くは逃げ出したり、ゲロを吐いて死んだり、妄想で凶暴化した騒動で互いに争って自滅したりしたが、まだ健康な者は震えながら部屋に隠れています。立ち直ろうとしていた者もいましたが、精神的に壊れた仲間に殴り殺されてしまいました。</RTS_Story_MajorDamage_Active_0>
+  <RTS_Story_MajorDamage_Inactive_0>[PLACEHOLDER] 大規模な被害、清掃は完了</RTS_Story_MajorDamage_Inactive_0>
+  <RTS_Story_MajorDamage_MinorRecovery_0>[PLACEHOLDER] 大規模な被害、軽度の復興</RTS_Story_MajorDamage_MinorRecovery_0>
+  <RTS_Story_MajorDamage_MajorRecovery_0>[PLACEHOLDER] 大規模な被害、大まかな復興</RTS_Story_MajorDamage_MajorRecovery_0>
+  <RTS_Story_MajorDamage_FullRecovery_0>[PLACEHOLDER] 大規模な被害、完全な復興</RTS_Story_MajorDamage_FullRecovery_0>
+
+</LanguageData>

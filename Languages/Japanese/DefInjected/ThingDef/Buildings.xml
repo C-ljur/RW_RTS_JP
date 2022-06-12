@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RTS_CorpsePod.label>死体用ポッド</RTS_CorpsePod.label>
+  <RTS_CorpsePod.description>布や皮の壁を張り、ロケットエンジンのノズルを付けた程度の、必要最低限な作りの輸送ポッドです。おハナシしたければ殺害した人間の遺体を入れて相手に送りつけることができます。</RTS_CorpsePod.description>
+
+  <RTS_ActiveCorpsePod.label>死体用ポッド</RTS_ActiveCorpsePod.label>
+  <RTS_CorpsePodIncoming.label>死体用ポッド (接近中)</RTS_CorpsePodIncoming.label>
+  <RTS_CorpsePodLeaving.label>死体用ポッド (進航中)</RTS_CorpsePodLeaving.label>
+
+
+</LanguageData>
